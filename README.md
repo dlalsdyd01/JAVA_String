@@ -1,8 +1,8 @@
 # JAVA_String  
 
-## ✅ 문자열(String)이란? 문자들의 나열(집합). 문자 하나 이상을 연결한 텍스트 데이터.  
+## ✅ 문자열(String)이란? 문자들의 나열. 문자 하나 이상을 연결한 텍스트 데이터.  
 
-문자열 기능  
+## 문자열 기능  
 ```
 String s = "I like Java and Python and c.";
 System.out.println(s);
@@ -42,7 +42,7 @@ System.out.println(s1 + s2); // JavaPython
 System.out.println(s1 +","+ s2); // Java,Python
 System.out.println(s1.concat(","). concat(s2)); // Java,Python
 ```
-문자열 비교  
+## 문자열 비교  
 ```
 String s1 = "Java";
 String s2 = "Python";
